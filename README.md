@@ -19,7 +19,7 @@ This project provides a backend API for a ticket management system. It allows us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ticket-system-api-backend.git
+   git clone https://github.com/your-username/ticket-system-api.git
    ```
 
 2. Navigate to the project directory:
