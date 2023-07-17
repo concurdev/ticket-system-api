@@ -1,0 +1,76 @@
+.ticketList {
+  width: 30%;
+  max-width: 100%;
+  background-color: var(--background-paper);
+  padding: 0;
+}
+
+.ticketList .MuiList-padding {
+  padding: 0;
+}
+
+.ticketList .listItem {
+  align-items: flex-start;
+}
+
+.ticketList .listItemBox {
+  background-color: #E3F2FD;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.ticketList .listItemPrimary {
+  background-color: #E3F2FD;
+  padding: 4px;
+  display: grid;
+  grid-template-columns: min-content auto min-content;
+  align-items: center;
+}
+
+.ticketList .listItemText {
+  text-align: left;
+  min-width: 130px;
+  max-width: 130px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: wrap;
+}
+
+.ticketList .listItemSecondaryBox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.ticketList .listItemIcon {
+  margin-left: 4px;
+  font-size: 1.2rem;
+  color: #F4D03F;
+  cursor: pointer;
+}
+
+.ticketList .listItemSecondary {
+  background-color: #FFFFFF;
+  padding: 2px;
+  border-radius: 4px;
+  max-height: 100px;
+  overflow-y: auto;
+}
+
+.ticketListContainer {
+  height: 450px; /* Set the desired height */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.ticketListContainer::-webkit-scrollbar {
+  width: 8px; /* Set the width of the scrollbar */
+}
+
+.ticketListContainer::-webkit-scrollbar-thumb {
+  background-color: #569DFD; /* Set the color of the scrollbar thumb */
+  border-radius: 4px; /* Set the border radius of the thumb */
+}
+
+.ticketListContainer::-webkit-scrollbar-track {
+  background-color: transparent; /* Set the background color of the scrollbar track */
+}

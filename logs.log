@@ -1,0 +1,631 @@
+ticket-system-api | DEV run @ 2023-07-17 08:32:25.531 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:32:26.124 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:33:43.385 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:33:43.913 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:35:29.197 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:35:29.775 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:37:40.648 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:37:41.239 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:37:51.512 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:37:52.042 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:37:53.711 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:37:54.188 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:38:41.573 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:38:42.858 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:38:43.582 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:38:44.631 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:39:19.441 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:39:20.015 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:39:21.410 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:39:21.883 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:39:41.334 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:39:41.806 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:39:47.234 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:39:47.744 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:39:49.281 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:39:49.755 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:42:52.085 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:42:52.678 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:42:58.084 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:42:58.506 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:43:00.360 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:43:00.769 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:43:00.807 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:43:01.059 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:43:01.059 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:43:01.061 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.637 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.707 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.707 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.708 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.712 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.788 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.789 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:23.790 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.217 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.257 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.257 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.259 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.262 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.352 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.353 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.354 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.790 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.876 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.876 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.878 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.881 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.924 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.924 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:24.926 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.336 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.371 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.372 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.373 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.376 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.457 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.457 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:55:25.458 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.501 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.540 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.541 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.541 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.545 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.580 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.580 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:09.581 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.064 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.107 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.108 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.109 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.112 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.157 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.158 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.159 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.639 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.672 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.673 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.673 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.676 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.712 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.712 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:10.713 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.191 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.227 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.227 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.228 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.231 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.267 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.267 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:11.268 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.234 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.268 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.268 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.269 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.272 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.309 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.309 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.310 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.782 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.816 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.816 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.817 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.820 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.852 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.852 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:12.853 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.330 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.472 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.472 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.473 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.477 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.847 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.847 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:13.848 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.320 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.634 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.634 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.635 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.639 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.850 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.850 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:14.850 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.603 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.636 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.636 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.637 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.640 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.680 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.680 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:15.681 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.168 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.204 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.205 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.205 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.209 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.244 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.244 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.245 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.724 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.756 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.756 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.756 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.760 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.794 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.795 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:16.796 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.262 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.300 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.301 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.301 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.304 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.340 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.340 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:17.340 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.119 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.167 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.168 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.168 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.171 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.204 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.204 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.205 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.685 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.724 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.724 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.725 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.728 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.760 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.760 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:18.761 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.242 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.280 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.280 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.281 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.284 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.327 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.327 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.328 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.806 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.849 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.849 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.849 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.853 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.888 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.888 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:19.889 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.654 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.688 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.688 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.688 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.692 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.733 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.734 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:20.734 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.206 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.240 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.240 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.240 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.244 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.294 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.294 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.295 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.776 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.808 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.808 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.809 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.812 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.844 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.844 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:21.844 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.332 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.364 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.364 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.365 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.368 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.404 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.404 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:22.405 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.232 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.280 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.281 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.282 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.287 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.324 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.325 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.325 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:23.810 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.016 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.017 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.017 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.021 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.060 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.060 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.061 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.553 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.597 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.597 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.597 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.600 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.636 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.636 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:24.637 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.109 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.146 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.146 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.147 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.150 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.195 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.195 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:25.195 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.012 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.044 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.044 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.044 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.047 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.080 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.080 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.080 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.559 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.598 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.598 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.599 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.602 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.636 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.636 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:26.637 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.117 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.153 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.153 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.153 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.156 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.196 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.196 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.197 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.682 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.717 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.717 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.718 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.721 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.762 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.762 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:27.763 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.536 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.573 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.573 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.573 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.577 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.612 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.612 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:28.613 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.095 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.129 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.130 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.130 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.134 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.168 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.169 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.169 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.656 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.689 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.689 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.690 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.693 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.737 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.737 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:29.737 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.213 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.248 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.248 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.248 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.252 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.284 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.284 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:30.285 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.099 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.132 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.132 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.133 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.136 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.172 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.172 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.172 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.648 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.684 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.684 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.685 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.688 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.720 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.720 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:31.721 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.198 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.236 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.236 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.237 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.240 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.272 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.272 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.272 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.765 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.800 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.800 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.801 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.804 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.836 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.836 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:32.836 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.640 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.680 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.681 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.681 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.684 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.720 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.720 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:33.721 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.217 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.252 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.252 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.253 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.256 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.294 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.294 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.294 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.772 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.808 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.808 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.809 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.812 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.850 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.850 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:34.851 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.330 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.377 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.378 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.378 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.381 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.417 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.417 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:35.418 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.255 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.288 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.288 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.289 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.292 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.324 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.324 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.325 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.796 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.828 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.828 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.829 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.832 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.864 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.864 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:36.864 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.347 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.380 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.380 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.381 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.385 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.420 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.420 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.421 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.900 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.944 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.944 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.945 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.948 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.981 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.981 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:37.982 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.788 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.828 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.829 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.829 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.832 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.867 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.868 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:38.868 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.369 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.404 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.404 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.404 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.408 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.440 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.440 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.440 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.923 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.978 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.978 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.978 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:39.981 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.017 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.017 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.018 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.502 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.540 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.540 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.541 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.544 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.576 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.576 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:40.577 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.383 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.420 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.420 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.421 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.424 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.456 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.456 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.456 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.941 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.976 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.976 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.977 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:41.980 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.012 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.012 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.012 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.500 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.540 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.540 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.541 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.544 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.576 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.576 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:42.577 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.077 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.112 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.112 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.113 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.116 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.152 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.152 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.153 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.958 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.992 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.992 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.993 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:43.996 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.028 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.028 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.029 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.512 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.566 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.566 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.566 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.570 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.605 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.605 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:44.606 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.110 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.154 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.154 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.154 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.158 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.192 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.192 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.193 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.629 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.669 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.669 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.670 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.673 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.709 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.710 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:56:45.711 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 08:57:28.386 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:57:28.994 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:57:30.524 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 08:57:30.959 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 08:57:31.000 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 08:57:31.247 | info: createTicket middleware exiting. Ticket "IF9411646264" created
+ticket-system-api | DEV run @ 2023-07-17 08:57:31.247 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:31.248 | info: insertTicket controller exiting. Randomly "CONDOR" was chosen
+ticket-system-api | DEV run @ 2023-07-17 08:57:32.832 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 08:57:32.871 | info: createTicket middleware exiting. Ticket "IF9031805711" created
+ticket-system-api | DEV run @ 2023-07-17 08:57:32.871 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:32.871 | info: insertTicket controller exiting. Randomly "CONDOR" was chosen
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.274 | info: createTicket middleware called for client: Client 1
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.310 | info: createTicket middleware exiting. Ticket "IF4658534185" created
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.310 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.311 | info: insertTicket controller exiting. 
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.313 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.348 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.348 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.348 | info: getAllTickets controller exiting. Total ticket count: 5
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.354 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.387 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.387 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.387 | info: getAllTickets controller exiting. Total ticket count: 5
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.393 | info: updateTicket middleware called for ticket: IF2422597742
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.431 | info: updateTicket middleware exiting. Ticket "IF2422597742" updated
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.431 | info: update controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.431 | info: update controller exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.437 | info: updateTicket middleware called for ticket: 1234
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.470 | warn: updateTicket middleware failed. Reason: "Ticket not found"
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.471 | info: update controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.471 | error: update controller exiting. Ticket# 1234 not found
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.471 | info: update controller exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.612 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.647 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.647 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.648 | info: getAllTickets controller exiting. Total ticket count: 5
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.869 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.922 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.922 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:33.924 | info: getAllTickets controller exiting. Total ticket count: 5
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.628 | info: updateTicket middleware called for ticket: IF4658534185
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.670 | info: updateTicket middleware exiting. Ticket "IF4658534185" updated
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.671 | info: update controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.673 | info: update controller exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.683 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.726 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.727 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 08:57:38.730 | info: getAllTickets controller exiting. Total ticket count: 5
+ticket-system-api | DEV run @ 2023-07-17 09:02:38.540 | info: Server running @ http://localhost:8000
+ticket-system-api | DEV run @ 2023-07-17 09:02:39.132 | info: Connected to MongoDB
+ticket-system-api | DEV run @ 2023-07-17 09:02:44.575 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 09:02:44.624 | info: createTicket middleware exiting. Ticket "IF5678973411" created
+ticket-system-api | DEV run @ 2023-07-17 09:02:44.624 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:02:44.627 | info: insertTicket controller exiting. Randomly "MIAT" was chosen
+ticket-system-api | DEV run @ 2023-07-17 09:02:45.040 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:02:45.079 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:02:45.080 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:02:45.080 | info: getAllTickets controller exiting. Total ticket count: 6
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.702 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.745 | info: createTicket middleware exiting. Ticket "IF1937305082" created
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.745 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.746 | info: insertTicket controller exiting. Randomly "CONDOR" was chosen
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.765 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.813 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.813 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:02:47.814 | info: getAllTickets controller exiting. Total ticket count: 7
+ticket-system-api | DEV run @ 2023-07-17 09:05:25.490 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:25.530 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:25.530 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:25.532 | info: getAllTickets controller exiting. Total ticket count: 0
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.281 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.335 | info: createTicket middleware exiting. Ticket "IF1956804781" created
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.335 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.336 | info: insertTicket controller exiting. Randomly "CONDOR" was chosen
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.352 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.393 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.393 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:29.395 | info: getAllTickets controller exiting. Total ticket count: 1
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.689 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.750 | info: createTicket middleware exiting. Ticket "IF4852288995" created
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.751 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.753 | info: insertTicket controller exiting. Randomly "MIAT" was chosen
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.776 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.816 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.816 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:37.818 | info: getAllTickets controller exiting. Total ticket count: 2
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.401 | info: createTicket middleware called for a "random client"
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.447 | info: createTicket middleware exiting. Ticket "IF8335138476" created
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.448 | info: insertTicket controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.449 | info: insertTicket controller exiting. Randomly "SAS" was chosen
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.475 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.516 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.516 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:40.518 | info: getAllTickets controller exiting. Total ticket count: 3
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.684 | info: updateTicket middleware called for ticket: IF4852288995
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.750 | info: updateTicket middleware exiting. Ticket "IF4852288995" updated
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.750 | info: update controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.752 | info: update controller exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.762 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.800 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.801 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:42.802 | info: getAllTickets controller exiting. Total ticket count: 3
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.113 | info: updateTicket middleware called for ticket: IF1956804781
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.156 | info: updateTicket middleware exiting. Ticket "IF1956804781" updated
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.157 | info: update controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.158 | info: update controller exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.167 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.204 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.204 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:44.206 | info: getAllTickets controller exiting. Total ticket count: 3
+ticket-system-api | DEV run @ 2023-07-17 09:05:48.910 | info: listAllTickets middleware called
+ticket-system-api | DEV run @ 2023-07-17 09:05:48.946 | info: listAllTickets middleware exiting
+ticket-system-api | DEV run @ 2023-07-17 09:05:48.946 | info: getAllTickets controller reached
+ticket-system-api | DEV run @ 2023-07-17 09:05:48.947 | info: getAllTickets controller exiting. Total ticket count: 3

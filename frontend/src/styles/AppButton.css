@@ -1,0 +1,17 @@
+.buttonContainer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1rem;
+    gap: 1rem;
+  }
+  
+  .customButton {
+    text-transform: capitalize !important;
+    display: flex;
+    align-items: center;
+  }
+  
+  .customButtonColor {
+    background-color: #569DFD !important;
+  }
+  

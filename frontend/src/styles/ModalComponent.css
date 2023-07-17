@@ -1,0 +1,51 @@
+.modalContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color: #D6EAF8;
+    border: 2px solid #569DFD;
+    border-radius: 8px;
+    box-shadow: 24px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .modalHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .modalTitle {
+    color: #000000;
+    margin-bottom: 24px;
+  }
+  
+  .closeIcon {
+    color: #000000;
+    cursor: pointer;
+  }
+  
+  .textField {
+    & .MuiOutlinedInput-root {
+      & fieldset {
+        border-color: #569DFD;
+      }
+      &:hover fieldset {
+        border-color: #569DFD;
+      }
+      &.Mui-focused fieldset {
+        border-color: #569DFD;
+      }
+    }
+  }
+  
+  .createButton {
+    background-color: #569DFD !important;
+    text-transform: capitalize !important;
+  }
+  
